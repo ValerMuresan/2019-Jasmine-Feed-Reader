@@ -73,7 +73,7 @@ $(function() {
           it('display menu when is clicked and hide menu when is clicked again', () => {
             let menuIcon = $('.menu-icon-link');
             menuIcon.click();
-            expect($('body').hasClass('menu-hidden')).not.toBe(true);
+            expect($('body').hasClass('menu-hidden')).toBe(false);
             menuIcon.click();
             expect($('body').hasClass('menu-hidden')).toBe(true);
           });
