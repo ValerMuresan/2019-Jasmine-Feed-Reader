@@ -30,5 +30,6 @@
 
 ## Dependencies
 
-+ Udacity starter code [repository](https://github.com/udacity/frontend-nanodegree-feedreader).
-+ Jasmine [specifications](https://jasmine.github.io/).
+Udacity starter code [repository](https://github.com/udacity/frontend-nanodegree-feedreader).
+
+Jasmine [specifications](https://jasmine.github.io/).
