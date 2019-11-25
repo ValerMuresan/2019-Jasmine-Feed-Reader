@@ -5,8 +5,7 @@
 
 1. [Project Overview](#project-overview)
 2. [Instructions](#instructions)
-3. [Project Preview](#project-preview)
-4. [Dependencies](#dependencies)
+3. [Dependencies](#dependencies)
 
 
 ## Project Overview
@@ -20,12 +19,7 @@
 
 ## Instructions
 
-- The completed project can be downloaded from the [repository](https://github.com/ValerMuresan/2019-Jasmine-Feed-Reader.git) or the user can download the [starter code](https://github.com/udacity/frontend-nanodegree-feedreader) and write some tests.  
-
-
-## Project Preview
-
-**Jasmine Feed Reader Project** and very interesting **Udacity Blog** can be seen [here](https://valermuresan.github.io/2019-Jasmine-Feed-Reader/).
+The completed project can be downloaded from the [repository](https://github.com/ValerMuresan/2019-Jasmine-Feed-Reader.git) or the user can download the [starter code](https://github.com/udacity/frontend-nanodegree-feedreader) and write some tests.  
 
 
 ## Dependencies
