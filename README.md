@@ -20,15 +20,15 @@
 
 ## Instructions
 
-The completed project can be downloaded from the [repository]() or the user can download the [starter code](https://github.com/udacity/frontend-nanodegree-feedreader) and write some tests.  
+- The completed project can be downloaded from the [repository](https://github.com/ValerMuresan/2019-Jasmine-Feed-Reader.git) or the user can download the [starter code](https://github.com/udacity/frontend-nanodegree-feedreader) and write some tests.  
 
 
 ## Project Preview
 
-**Jasmine Feed Reader Project** and very interesting **Udacity Blog** can be seen [here]().
+**Jasmine Feed Reader Project** and very interesting **Udacity Blog** can be seen [here](https://valermuresan.github.io/2019-Jasmine-Feed-Reader/).
 
 
 ## Dependencies
 
-Udacity starter code [repository](https://github.com/udacity/frontend-nanodegree-feedreader).
-Jasmine [specifications](https://jasmine.github.io/).
++ Udacity starter code [repository](https://github.com/udacity/frontend-nanodegree-feedreader).
++ Jasmine [specifications](https://jasmine.github.io/).
